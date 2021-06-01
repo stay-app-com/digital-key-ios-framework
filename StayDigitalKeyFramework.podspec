@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name = "digitalkey"
+  s.name = "StayDigitalKeyFramework"
   s.version          = "1.0"
   s.summary          = "Stay digital key manager"
   s.homepage         = "https://stay-app.com"
@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
    }
 
   s.author           = { "Stay App" => "info@stay-app.com" }
-  s.source = { :path => '.' }
+  s.source = { :git => 'https://bitbucket.org/mobailapps/staydigitalkeyiosframework.git' }
 
   s.requires_arc = true
 
@@ -20,6 +20,6 @@ Pod::Spec.new do |s|
 
   s.module_name = 'StayDigitalKeyFramework'
 
-  s.vendored_frameworks = 'digitalkey.xcframework'
+  s.vendored_frameworks = 'StayDigitalKeyFramework.xcframework'
 end
 
