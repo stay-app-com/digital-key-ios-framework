@@ -19,6 +19,11 @@ Pod::Spec.new do |s|
   s.ios.frameworks = 'Foundation', 'CoreTelephony', 'Security', 'CoreLocation', 'CoreBluetooth', 'CoreMotion', 'UIKit', 'SystemConfiguration', 'LocalAuthentication'
 
   s.module_name = 'StayDigitalKeyFramework'
+  
+  s.dependency 'JSONModel'
+  s.dependency 'CocoaLumberjack/Swift'
+  s.dependency 'BerTlv'
+  s.dependency 'Mixpanel'
 
   s.vendored_frameworks = 'StayDigitalKeyFramework.xcframework'
 end
