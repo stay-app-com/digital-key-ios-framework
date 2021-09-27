@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/BerTlv.framework/BerTlv</key>
 		<data>
-		nhQWrKkftuN5ehZ1FiZu9K0fh4M=
+		y5HRdLsmhlDuhxlDgLAhxUVxG44=
 		</data>
 		<key>Frameworks/BerTlv.framework/Info.plist</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Frameworks/CocoaLumberjack.framework/CocoaLumberjack</key>
 		<data>
-		73fw0oULM9Dbul6CKYN8uHxOcqU=
+		gfZom+9HkUk+MnGsP590Ee3T/hE=
 		</data>
 		<key>Frameworks/CocoaLumberjack.framework/Info.plist</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Frameworks/JSONModel.framework/JSONModel</key>
 		<data>
-		nqCn6r7ZemyytMeOQZ673HILYAY=
+		bonJViu+/9C2g9b9v6QTPy6z8RY=
 		</data>
 		<key>Frameworks/JSONModel.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Frameworks/Mixpanel.framework/Mixpanel</key>
 		<data>
-		+wiKIAC0BKoKM043kUl1ZNBtxfI=
+		6QVC1Y1Vm2t4W1m0kPyfa69MtFg=
 		</data>
 		<key>Frameworks/Mixpanel.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/SaltoJustINMobileSDK</key>
 		<data>
-		joeTMs2+NeAYywkETYArR/z4NAE=
+		gcTL3Gl9i3DskDYRHFL79sbnsss=
 		</data>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -138,7 +138,7 @@
 		</data>
 		<key>Frameworks/SeosMobileKeysSDK.framework/SeosMobileKeysSDK</key>
 		<data>
-		1vaOmItUxhiHfX/zPwkbBRLiP8w=
+		GduwrkMm7/9zoAtGwOwznEYiCIc=
 		</data>
 		<key>Frameworks/SeosMobileKeysSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -162,7 +162,7 @@
 		</data>
 		<key>Headers/DigitalKeyModule.h</key>
 		<data>
-		8FK54YT9PR+5/ILJxaUr90mTQIQ=
+		WPcDmD+PfVXp7T+n/T+CE4tNtaI=
 		</data>
 		<key>Headers/DigitalKeyProviderFactory.h</key>
 		<data>
@@ -186,7 +186,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		/KJL6gosf6yzviAbTRpPB9vM5iY=
+		Ihq5uQwnXaK7qAptlB1+XigUmUg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -199,7 +199,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wTTSi9mX8Uf23Hz5opUgqUZQ5jit4cEC9Ton0fY5id0=
+			VwHvXzfJ0R4e3AhB2DN8Yb3Bvqot7pCiBvh+PG6iy9M=
 			</data>
 		</dict>
 		<key>Frameworks/BerTlv.framework/Info.plist</key>
@@ -220,7 +220,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BXJQEs2HPRI1h+jp/3Rjxgj4FEJHhsWYXKLoD6mVMSw=
+			FbTHSo4gVLGt3wdrUX+8kiYp/If8+eg1XrT7yzb8d4o=
 			</data>
 		</dict>
 		<key>Frameworks/CocoaLumberjack.framework/Info.plist</key>
@@ -248,7 +248,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L4tiUp872CRcd7poLAS2Xq/smGxwhy11hv4aRAuPzpI=
+			35Z6yUtB/7TuuTvgFgg1N5Jy/mpgh9g2gFNm43vSA0E=
 			</data>
 		</dict>
 		<key>Frameworks/JSONModel.framework/_CodeSignature/CodeResources</key>
@@ -381,7 +381,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3yMK/Vmbgv3akNMuDUwQIkg3nuuBzjcfsuWAeSJqftg=
+			lRIvlw6Trk02sRFhWk/5heOJI0JjpwzmoyVw2KtHtNU=
 			</data>
 		</dict>
 		<key>Frameworks/Mixpanel.framework/_CodeSignature/CodeResources</key>
@@ -409,7 +409,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			68JvActw4KijTvbjEfbGWzve7KqNzecxgw55t61EoSM=
+			lYhjT9OspDMvCiOK1F6yHLMhnk8UpXXsOMqflzkZyog=
 			</data>
 		</dict>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/_CodeSignature/CodeResources</key>
@@ -430,7 +430,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v4oEGmU2xcdj1UWpSTBibJJWTy6eHarCasnhiqdxXMI=
+			6znaLTDKNwGZK9Q7edN6Mao5ah29+yeljITARpd7V80=
 			</data>
 		</dict>
 		<key>Frameworks/SeosMobileKeysSDK.framework/_CodeSignature/CodeResources</key>
@@ -472,7 +472,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			x9EEi+/wpaLctO6GTGV1WGqIendwV3f7qUA1SkWMJp0=
+			6cJRAmAaP+jj9zqPKi5frzYHhE2XA7uXY9Zc2sz+KBs=
 			</data>
 		</dict>
 		<key>Headers/DigitalKeyProviderFactory.h</key>
