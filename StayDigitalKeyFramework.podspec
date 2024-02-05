@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "StayDigitalKeyFramework"
-  s.version          = "1.1"
+  s.version          = "1.2"
   s.summary          = "Stay digital key manager"
   s.homepage         = "https://stay-app.com"
   s.license      = {
@@ -19,11 +19,6 @@ Pod::Spec.new do |s|
   s.ios.frameworks = 'Foundation', 'CoreTelephony', 'Security', 'CoreLocation', 'CoreBluetooth', 'CoreMotion', 'UIKit', 'SystemConfiguration', 'LocalAuthentication'
 
   s.module_name = 'StayDigitalKeyFramework'
-  
-  s.dependency 'JSONModel'
-  s.dependency 'CocoaLumberjack/Swift'
-  s.dependency 'BerTlv'
-  s.dependency 'Mixpanel'
 
   s.vendored_frameworks = 'StayDigitalKeyFramework.xcframework'
 end
