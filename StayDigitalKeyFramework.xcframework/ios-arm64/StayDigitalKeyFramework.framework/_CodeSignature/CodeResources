@@ -10,7 +10,7 @@
 		</data>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/SaltoJustINMobileSDK</key>
 		<data>
-		spPdjUpn3ChVjwSbwVZb64O7Jxo=
+		EccyD0gtIZjqzAPAxl6yQ6pp/NE=
 		</data>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Headers/StayDigitalKeyFramework.h</key>
 		<data>
-		tWT9zaz51kJKeOn2usdS2jVmqNA=
+		lpI7A7Ly3MjQ/RLGvgK6Ri/d8l0=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		iQ6Ld5q4ea6Cs3Q9oLr7OSiZSG4=
+		OTBbF0Y+oJwxyHaM9SyzAF2sYCU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -62,7 +62,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MAlvkdfznFCarMNhc8Tk0gI6wDoIRkXpjntwv8oY9oY=
+			JPYtOJO8/ZkzlWOcpS0O6xRqy8a5ZhEA7WLpSOxzNVI=
 			</data>
 		</dict>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/_CodeSignature/CodeResources</key>
@@ -111,7 +111,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WLnGbzr5uVP34y+K5TwANygAk4m8IOvhn2ZZ21X/Nio=
+			n7WTit+YF9k1VvuYnkCF1d/K8X4NaLZqtWUv3uJvNLg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
