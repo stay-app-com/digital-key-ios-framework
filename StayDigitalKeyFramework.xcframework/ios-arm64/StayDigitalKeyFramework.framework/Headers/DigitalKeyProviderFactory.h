@@ -14,7 +14,8 @@ typedef NS_ENUM(NSUInteger, DigitalKeyProvider) {
     KABA_PROVIDER       = 1,
     ASSAABLOY_PROVIDER  = 2,
     SALTO_PROVIDER      = 3,
-    UNKNOWN_PROVIDER    = 4
+    LOCKUP_PROVIDER     = 4,
+    UNKNOWN_PROVIDER    = 5
 };
 
 @interface DigitalKeyProviderFactory : NSObject

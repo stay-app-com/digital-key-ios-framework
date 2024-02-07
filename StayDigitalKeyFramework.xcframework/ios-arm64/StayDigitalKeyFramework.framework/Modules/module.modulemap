@@ -1,6 +1,6 @@
 framework module StayDigitalKeyFramework {
   umbrella header "StayDigitalKeyFramework.h"
-  export *
 
+  export *
   module * { export * }
 }

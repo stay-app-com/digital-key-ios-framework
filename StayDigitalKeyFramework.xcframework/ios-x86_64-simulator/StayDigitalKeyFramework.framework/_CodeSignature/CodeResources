@@ -4,72 +4,454 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/BerTlv.framework/BerTlv</key>
+		<data>
+		Rg9+VmZ0a67EOzNNu2XZIw51Fa8=
+		</data>
+		<key>Frameworks/BerTlv.framework/Info.plist</key>
+		<data>
+		sUtXAskw6JPyi0aQPzmDmpKxvlU=
+		</data>
+		<key>Frameworks/BerTlv.framework/_CodeSignature/CodeResources</key>
+		<data>
+		VWRgBQwD1ybG4jVuddy9vRtpHAw=
+		</data>
+		<key>Frameworks/CocoaLumberjack.framework/CocoaLumberjack</key>
+		<data>
+		tU6Y9p2VirgADZD1I3ZDlAEhsvw=
+		</data>
+		<key>Frameworks/CocoaLumberjack.framework/Info.plist</key>
+		<data>
+		AiO85/jrqRUQy2d7OH9T6Os0Xv0=
+		</data>
+		<key>Frameworks/CocoaLumberjack.framework/_CodeSignature/CodeResources</key>
+		<data>
+		71W+2jt8BtS7y2jowx0HQxH5YMg=
+		</data>
+		<key>Frameworks/JSONModel.framework/Info.plist</key>
+		<data>
+		ngMOD9cg1+BFBxf7dyMtwUotWSw=
+		</data>
+		<key>Frameworks/JSONModel.framework/JSONModel</key>
+		<data>
+		oQShqEhf/y/UJG3jajUxQC3S/Bk=
+		</data>
+		<key>Frameworks/JSONModel.framework/_CodeSignature/CodeResources</key>
+		<data>
+		m6BTr40fLbBH+7NApxKIWM/ChQ0=
+		</data>
+		<key>Frameworks/Mixpanel.framework/Info.plist</key>
+		<data>
+		ExwgVXYgli+52uqPgNqQCuWg/xM=
+		</data>
+		<key>Frameworks/Mixpanel.framework/MPArrowLeft.png</key>
+		<data>
+		utjFQq0o4fHNxocYTUAQ8dwBMXk=
+		</data>
+		<key>Frameworks/Mixpanel.framework/MPArrowLeft@2x.png</key>
+		<data>
+		0+iH8VQeaTOtCIDplHMf/GcfWf0=
+		</data>
+		<key>Frameworks/Mixpanel.framework/MPArrowRight.png</key>
+		<data>
+		p86Nv8rVygfixvr9IV2cZ/Sdbws=
+		</data>
+		<key>Frameworks/Mixpanel.framework/MPArrowRight@2x.png</key>
+		<data>
+		+03sdC9kzzNOVNJSvWZmnzRpv4s=
+		</data>
+		<key>Frameworks/Mixpanel.framework/MPCheckmark.png</key>
+		<data>
+		3gcX2ka+g00r4MWCJ9t8NrcTH60=
+		</data>
+		<key>Frameworks/Mixpanel.framework/MPCheckmark@2x.png</key>
+		<data>
+		f2o+30q0YWkOkVmFb2oaTgFHlXE=
+		</data>
+		<key>Frameworks/Mixpanel.framework/MPCloseButton.png</key>
+		<data>
+		Co6rbWkwW34r9bcG4oIb7QiaFRI=
+		</data>
+		<key>Frameworks/Mixpanel.framework/MPCloseButton@2x.png</key>
+		<data>
+		5PgqQpwWPQw1gRi4Ngma87zvi2s=
+		</data>
+		<key>Frameworks/Mixpanel.framework/MPCloseButton@3x.png</key>
+		<data>
+		wjSZD6yFrm4pMAEeqoH0wOcL3Bk=
+		</data>
+		<key>Frameworks/Mixpanel.framework/MPDismissKeyboard.png</key>
+		<data>
+		zMOqzxQxdmZEjZaafsuaZEV6XoM=
+		</data>
+		<key>Frameworks/Mixpanel.framework/MPDismissKeyboard@2x.png</key>
+		<data>
+		3HuU2vv5PFnIVt3TMqbiXQmTIW4=
+		</data>
+		<key>Frameworks/Mixpanel.framework/MPLogo.png</key>
+		<data>
+		DJotx7GWoW3xmZs4j7/koaG0FuA=
+		</data>
+		<key>Frameworks/Mixpanel.framework/MPLogo@2x.png</key>
+		<data>
+		xONTdUHs57rOy5ch/7HUgyFuMUI=
+		</data>
+		<key>Frameworks/Mixpanel.framework/MPTakeoverNotificationViewController~ipad.nib</key>
+		<data>
+		e2qAzxz9kRuy7oaDxcSFZidDdBo=
+		</data>
+		<key>Frameworks/Mixpanel.framework/MPTakeoverNotificationViewController~iphonelandscape.nib</key>
+		<data>
+		WNP81WEe3goqvsKsl6+DgRcsQ+k=
+		</data>
+		<key>Frameworks/Mixpanel.framework/MPTakeoverNotificationViewController~iphoneportrait.nib</key>
+		<data>
+		F0oBK8I3ELpLYWN2mzyEAWYfYVs=
+		</data>
+		<key>Frameworks/Mixpanel.framework/Mixpanel</key>
+		<data>
+		7+O5ThmPE222IWGivYBMtxPGI3Q=
+		</data>
+		<key>Frameworks/Mixpanel.framework/_CodeSignature/CodeResources</key>
+		<data>
+		nT1L9rVPcOjVdsprNLRohiLBXWA=
+		</data>
+		<key>Frameworks/Mixpanel.framework/placeholder-image.png</key>
+		<data>
+		AT1HRZNmcC6pwiuzaGBvyDDcbEg=
+		</data>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/Info.plist</key>
 		<data>
-		dwq7900yUag0IQpy7i3ToGEa5fw=
+		pEt4wa72UC/lXTfgYxpY9MqMmms=
 		</data>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/SaltoJustINMobileSDK</key>
 		<data>
-		k+Q+R/a5XpMd1K+pKFcDyhIZ4lQ=
+		4bjQfnb0e5C90DGmue3jHlG5EDo=
 		</data>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		X99Z6QFloL3UUf6vqQzPJA4fVXw=
+		TXSyZWDNtFGoz5A10qqEekii/T4=
+		</data>
+		<key>Frameworks/SeosMobileKeysSDK.framework/Info.plist</key>
+		<data>
+		NXDmquVNYe41PyAbeso87yZr3xE=
+		</data>
+		<key>Frameworks/SeosMobileKeysSDK.framework/SeosMobileKeysSDK</key>
+		<data>
+		iLRzMVgYoIzLZkdix128XNgU3R8=
+		</data>
+		<key>Frameworks/SeosMobileKeysSDK.framework/_CodeSignature/CodeResources</key>
+		<data>
+		rvpTW3J+pMmkIu6n183yivWpUUU=
+		</data>
+		<key>Frameworks/SeosMobileKeysSDK.framework/license.plist</key>
+		<data>
+		gNB3uOjTcLNOUWO2Ww+2fFFxvjw=
+		</data>
+		<key>Headers/DigitalKeyAssaabloyManager.h</key>
+		<data>
+		t0kWWY6sgcmy8xrwNrStfkKdU2s=
 		</data>
 		<key>Headers/DigitalKeyEntity.h</key>
 		<data>
 		EfrVYKLSAYOXF4vzVhpElrIx1nw=
 		</data>
+		<key>Headers/DigitalKeyLockUpManager.h</key>
+		<data>
+		3pLcN0j18zpJ3px4mNzmNhFXlLo=
+		</data>
 		<key>Headers/DigitalKeyModule.h</key>
 		<data>
-		QNok9HA+eUCA9mUd0quCJaYq9cI=
+		WPcDmD+PfVXp7T+n/T+CE4tNtaI=
 		</data>
 		<key>Headers/DigitalKeyProviderFactory.h</key>
 		<data>
-		cP0JW7Uq9gZDrEwSiyqQrDCLpCY=
+		tmJpW2NcbLnQ/f8ktnb9lowfX9w=
 		</data>
 		<key>Headers/DigitalKeyProviderInputProtocol.h</key>
 		<data>
-		n32FCpVLzmTVwlaU8pzXYfGqAK4=
+		pwhhP6qUfrJHF9j+r1L5Fsp0vNs=
 		</data>
 		<key>Headers/DigitalKeyProviderOutputProtocol.h</key>
 		<data>
 		2QiYmRENgAfEeMsmc5fWpmEUvBU=
 		</data>
+		<key>Headers/DigitalKeySaltoManager.h</key>
+		<data>
+		dxNU/Y3E8WNdojA/Pb6rsS8FdY8=
+		</data>
 		<key>Headers/StayDigitalKeyFramework.h</key>
 		<data>
-		lpI7A7Ly3MjQ/RLGvgK6Ri/d8l0=
+		qMQbxuOwiA7hKQOW3lpfz76jE/I=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ztavjq15/c1if7xOYLHAEGANvWE=
+		dzl/aDY15zpRf4HoW2kjbqBLdeY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		eDjfCLWn0ABEuy6kWR5plp5d4+Q=
+		Xu2ypLVMG0Ui7lXDxPKQNzALOXg=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/BerTlv.framework/BerTlv</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oX8/2ejr80B75h4KOuIenMGPkw0k4IyilRW/Suj70Yw=
+			</data>
+		</dict>
+		<key>Frameworks/BerTlv.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PTsHJ7HAfAqqDavKo6EjQYXvcBrzI0fWisgPTBL2E7I=
+			</data>
+		</dict>
+		<key>Frameworks/BerTlv.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MT8oluE9wutKc5qlEeWi7TjBXNs2DdIgScO/TnZV5/U=
+			</data>
+		</dict>
+		<key>Frameworks/CocoaLumberjack.framework/CocoaLumberjack</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cMUtTOANdeTV9OGFO1YLdrzy3+BDjLq4JwhgCBfg3FY=
+			</data>
+		</dict>
+		<key>Frameworks/CocoaLumberjack.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AYV9eiabKJ5gkZsS0yIHZTOJwOpIoGzF9ShQj7t68ts=
+			</data>
+		</dict>
+		<key>Frameworks/CocoaLumberjack.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			P05jN7kg62sLXd8Cd2/V9DcAmiEcrIft7Z8ScLyQhrA=
+			</data>
+		</dict>
+		<key>Frameworks/JSONModel.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZtBiI/5s4uEgziVjo2XwhyoFgPvrxxIdKg79dL8/xos=
+			</data>
+		</dict>
+		<key>Frameworks/JSONModel.framework/JSONModel</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			idvvSD5V7TSkJ/B+Y7WOsiIWNFaXaPK6HtYfCMrx6h8=
+			</data>
+		</dict>
+		<key>Frameworks/JSONModel.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JIhshZguQrebehvoE200PsSCvNZBfL7mRvZ2Ev/GNTc=
+			</data>
+		</dict>
+		<key>Frameworks/Mixpanel.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VcrJedh+cJ+rLKN2SRBElg7F4lDTGuB+g+C8hN9deYg=
+			</data>
+		</dict>
+		<key>Frameworks/Mixpanel.framework/MPArrowLeft.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			P6xERn7qKPhNO86xsIwqYsaE4Il2zStbhenLPBvEEFM=
+			</data>
+		</dict>
+		<key>Frameworks/Mixpanel.framework/MPArrowLeft@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4LijtjwoJOSL0I/uTp/kucdW8GE0ZLHkcJr1rq0eYEg=
+			</data>
+		</dict>
+		<key>Frameworks/Mixpanel.framework/MPArrowRight.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9uHNiWUTbBZVOuR13XvBLrYS/GNvj8yk535VtV/xn5A=
+			</data>
+		</dict>
+		<key>Frameworks/Mixpanel.framework/MPArrowRight@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cmM3kcPTa8LcpMDaGGD/q1XcPy7jGyB+ZpMJntrMQ4U=
+			</data>
+		</dict>
+		<key>Frameworks/Mixpanel.framework/MPCheckmark.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AYRxlTtRSTE91qnG11d1zi5O1LA4Kj4jwFI5+oYBChw=
+			</data>
+		</dict>
+		<key>Frameworks/Mixpanel.framework/MPCheckmark@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wnk7c0lF4japJaAvi1fADW1Y3t7VY1W9EwczsNVaUCI=
+			</data>
+		</dict>
+		<key>Frameworks/Mixpanel.framework/MPCloseButton.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qJyidlgS+aoMPDFCHpBBRWTnpmo9+2yrD/KHF7z9m+Y=
+			</data>
+		</dict>
+		<key>Frameworks/Mixpanel.framework/MPCloseButton@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			F9cA6EyujJp59YFcDgSNN1cWTh64ACpEfweIGiDPd8E=
+			</data>
+		</dict>
+		<key>Frameworks/Mixpanel.framework/MPCloseButton@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8yZcbyQEBinX0fHfTT05fokzoEJHd/fEULRuDm6+JxY=
+			</data>
+		</dict>
+		<key>Frameworks/Mixpanel.framework/MPDismissKeyboard.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fXtUpE72LTvtJ3Rbs9RchjWske7kjVcqFJ2oEApQfGQ=
+			</data>
+		</dict>
+		<key>Frameworks/Mixpanel.framework/MPDismissKeyboard@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Izvlgu/j53ktUMyQp4Ll4fqGndn31jbO1i2NXU8KlGk=
+			</data>
+		</dict>
+		<key>Frameworks/Mixpanel.framework/MPLogo.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YOoJl7oxKVpAdmhvnihPAWtZEas7YEyHNwk0WTVtdS8=
+			</data>
+		</dict>
+		<key>Frameworks/Mixpanel.framework/MPLogo@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AAWYGUFh1EHvXziow8pKoY7lM+F3M8QXA4+ch3APZJE=
+			</data>
+		</dict>
+		<key>Frameworks/Mixpanel.framework/MPTakeoverNotificationViewController~ipad.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			J/QF6/x39V3xGeLh8J3TQ0oFyRS+o+aHY4+GV8L8E6w=
+			</data>
+		</dict>
+		<key>Frameworks/Mixpanel.framework/MPTakeoverNotificationViewController~iphonelandscape.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JXU/iqfNTWx4RHhSasHc4F8KTgl0xTSvMoXIdyasri8=
+			</data>
+		</dict>
+		<key>Frameworks/Mixpanel.framework/MPTakeoverNotificationViewController~iphoneportrait.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZAJJiTZgm6J6ljqWm6Ti2S1vptYMOexFFgv/SFsSLxM=
+			</data>
+		</dict>
+		<key>Frameworks/Mixpanel.framework/Mixpanel</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BPJzDjVNPoVcGgeWmC35omV8P8Vcql5x7igjX+WH6Zw=
+			</data>
+		</dict>
+		<key>Frameworks/Mixpanel.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pqeiXljax4ScpRk+/iOLiu0NgufwdzX1OOirxo4FA5U=
+			</data>
+		</dict>
+		<key>Frameworks/Mixpanel.framework/placeholder-image.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6tWo6yQ0Ttp70huMLWmy15V4uznndxP2NMF4um/mrWQ=
+			</data>
+		</dict>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VH5z2ZuRUhtH+/m26mgYrmD8LCJ+9G6kwHTmkCqSlyQ=
+			SOS78TnrdQ3/60IfokUIoDGHJ7HKEpUU+X67U/GtQsk=
 			</data>
 		</dict>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/SaltoJustINMobileSDK</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WXc9Tn99z1/KEEO8PSFo9TxwIKPEZx+rLxuEs0+C+V4=
+			IRLSGNVa7uM94FCkFVDCJ0r87LZ6w7DgMc6HOVmbOXE=
 			</data>
 		</dict>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iXZSR927XV8ew2jK7CjBf0cPO1tzWkNs1dPu9jap1/E=
+			M5S+i1BxVBBSKnPyvE+O7WPoWKETprNmzcAOCEpWE0M=
+			</data>
+		</dict>
+		<key>Frameworks/SeosMobileKeysSDK.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VtJsYcIYztCw4/GKG4bMaSi80J/MRCt2AXzVxqnvn78=
+			</data>
+		</dict>
+		<key>Frameworks/SeosMobileKeysSDK.framework/SeosMobileKeysSDK</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			C8021ilssyDuXFYxMS+hkdXDy22rGUBp7PEp+WmL2Xs=
+			</data>
+		</dict>
+		<key>Frameworks/SeosMobileKeysSDK.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FBHame/etDl08igScGnG21Xsc++JFsLRdtjo06DL7o0=
+			</data>
+		</dict>
+		<key>Frameworks/SeosMobileKeysSDK.framework/license.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VIN3TNvvMJwDpUGU2T1sSxRGNGQuLATHWjpAS4LTTgc=
+			</data>
+		</dict>
+		<key>Headers/DigitalKeyAssaabloyManager.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RsdSuO3LbQB0yckQl/nKpEiGKOQzlR0vatCv7lBwQtE=
 			</data>
 		</dict>
 		<key>Headers/DigitalKeyEntity.h</key>
@@ -79,25 +461,32 @@
 			jxzhuVc0p6FpOG3pBn1Ijx9bXyKJ0lCiqhM1NP2ez98=
 			</data>
 		</dict>
+		<key>Headers/DigitalKeyLockUpManager.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rGXq6SvgI//Oq+9OFDtypWY4zAqH1rJnTaWhynXNDmA=
+			</data>
+		</dict>
 		<key>Headers/DigitalKeyModule.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			s/EvUUQ415qJbPrDdBHaR9yDxIzUvaR4vZpxpSckzH0=
+			6cJRAmAaP+jj9zqPKi5frzYHhE2XA7uXY9Zc2sz+KBs=
 			</data>
 		</dict>
 		<key>Headers/DigitalKeyProviderFactory.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ux3MEGS62dt5/G7Tz8r1c3lt9Wc1aTu+q8g+Kn9kFSQ=
+			yZvRgtSjabCdNSOY2xi1S1bbQtWGOPo7qUn01vH8kgU=
 			</data>
 		</dict>
 		<key>Headers/DigitalKeyProviderInputProtocol.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fwXuwFjVqrryiX488uTRSFLuvtMEQX/rHlREsliSB68=
+			Q67f2/zYKFSoxuBFFgvGoR4UQAA4iTOXBOfJjckSg9I=
 			</data>
 		</dict>
 		<key>Headers/DigitalKeyProviderOutputProtocol.h</key>
@@ -107,18 +496,25 @@
 			+c+raozUTj4tck1arcoiwTcLehqA/dqBVQdt2hkNjd4=
 			</data>
 		</dict>
+		<key>Headers/DigitalKeySaltoManager.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xVvXFd5mb4tqAFhuHrW1aEq6LnY/+MAZLQiBzsjB6V8=
+			</data>
+		</dict>
 		<key>Headers/StayDigitalKeyFramework.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n7WTit+YF9k1VvuYnkCF1d/K8X4NaLZqtWUv3uJvNLg=
+			T68IQu4VlCHmEF95IVjFLlUYs/VElLmDNyW/+GijgYE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a/keva/RGocKiLcdJE+zVRWn0IySX2v04GJIiXor/yA=
+			nSkwS1cox/Pyj7VvSPnvX4WrhwPEQceiM2MPypwIp+8=
 			</data>
 		</dict>
 	</dict>

@@ -10,10 +10,5 @@
 @property id<DigitalKeyProviderInputProtocol> dkProvider;
 @property WKWebView *webview;
 - (void)didReceiveMessage:(NSString *)message;
-- (void)initializeItWithStayData:(NSDictionary *)stayDataJSON configuration:(NSDictionary *)configurationJSON;
-- (void)startProcessWithCallback;
-- (void)activateKeyWithIndex:(NSInteger)index;
-- (void)deactivateKeyWithIndex:(NSInteger)index;
-- (void)getKeysWithCallback;
-- (void)setInvitationCode:(NSString *)code;
+
 @end

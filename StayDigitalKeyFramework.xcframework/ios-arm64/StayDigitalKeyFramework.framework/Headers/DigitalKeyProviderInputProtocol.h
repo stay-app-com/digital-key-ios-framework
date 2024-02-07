@@ -10,7 +10,7 @@
 
 @protocol DigitalKeyProviderInputProtocol <NSObject>
 
-- (void) startProcess;
+- (void)startProcess;
 
 - (BOOL)isUserRegistered;
 - (BOOL)needsMobilePhoneRegistration;
