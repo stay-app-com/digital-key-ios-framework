@@ -20,8 +20,11 @@ FOUNDATION_EXPORT const unsigned char StayDigitalKeyFrameworkVersionString[];
 #import <StayDigitalKeyFramework/DigitalKeyProviderOutputProtocol.h>
 #import <StayDigitalKeyFramework/DigitalKeyProviderInputProtocol.h>
 #import <StayDigitalKeyFramework/DigitalKeyProviderFactory.h>
-#import <StayDigitalKeyFramework/DigitalKeyLockUpManager.h>
+#ifdef INCLUDE_SALTO
 #import <StayDigitalKeyFramework/DigitalKeySaltoManager.h>
+#endif
+#ifdef INCLUDE_ASSAABLOY
 #import <StayDigitalKeyFramework/DigitalKeyAssaabloyManager.h>
+#endif
 
 
