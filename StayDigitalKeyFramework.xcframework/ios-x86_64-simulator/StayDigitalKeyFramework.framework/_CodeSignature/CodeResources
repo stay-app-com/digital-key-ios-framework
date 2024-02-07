@@ -6,15 +6,15 @@
 	<dict>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/Info.plist</key>
 		<data>
-		pEt4wa72UC/lXTfgYxpY9MqMmms=
+		dwq7900yUag0IQpy7i3ToGEa5fw=
 		</data>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/SaltoJustINMobileSDK</key>
 		<data>
-		F9snOqH4IKInPUbZPEgTqELZzTA=
+		k+Q+R/a5XpMd1K+pKFcDyhIZ4lQ=
 		</data>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		TXSyZWDNtFGoz5A10qqEekii/T4=
+		X99Z6QFloL3UUf6vqQzPJA4fVXw=
 		</data>
 		<key>Headers/DigitalKeyEntity.h</key>
 		<data>
@@ -55,21 +55,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SOS78TnrdQ3/60IfokUIoDGHJ7HKEpUU+X67U/GtQsk=
+			VH5z2ZuRUhtH+/m26mgYrmD8LCJ+9G6kwHTmkCqSlyQ=
 			</data>
 		</dict>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/SaltoJustINMobileSDK</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zRNY99GkvQhElm9XwtIi6oDUnzoHREHd1XPzHNMl+64=
+			WXc9Tn99z1/KEEO8PSFo9TxwIKPEZx+rLxuEs0+C+V4=
 			</data>
 		</dict>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M5S+i1BxVBBSKnPyvE+O7WPoWKETprNmzcAOCEpWE0M=
+			iXZSR927XV8ew2jK7CjBf0cPO1tzWkNs1dPu9jap1/E=
 			</data>
 		</dict>
 		<key>Headers/DigitalKeyEntity.h</key>
