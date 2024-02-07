@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/BerTlv.framework/BerTlv</key>
 		<data>
-		y5HRdLsmhlDuhxlDgLAhxUVxG44=
+		E1KnijByLRoyb+Qpr1CcuOkHw9g=
 		</data>
 		<key>Frameworks/BerTlv.framework/Info.plist</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Frameworks/CocoaLumberjack.framework/CocoaLumberjack</key>
 		<data>
-		gfZom+9HkUk+MnGsP590Ee3T/hE=
+		Rc8+kAetuPUjs1/UKjwF5cf8jFA=
 		</data>
 		<key>Frameworks/CocoaLumberjack.framework/Info.plist</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Frameworks/JSONModel.framework/JSONModel</key>
 		<data>
-		bonJViu+/9C2g9b9v6QTPy6z8RY=
+		A0OVLzoi+1ZoUhBq4r3z6EkqXsM=
 		</data>
 		<key>Frameworks/JSONModel.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Frameworks/Mixpanel.framework/Mixpanel</key>
 		<data>
-		6QVC1Y1Vm2t4W1m0kPyfa69MtFg=
+		RU2aql0tdxLpklHOJ/Erfpzu6Ww=
 		</data>
 		<key>Frameworks/Mixpanel.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/SaltoJustINMobileSDK</key>
 		<data>
-		gcTL3Gl9i3DskDYRHFL79sbnsss=
+		IUWoBFqVArJVcpmePRFHrr09m+k=
 		</data>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -138,7 +138,7 @@
 		</data>
 		<key>Frameworks/SeosMobileKeysSDK.framework/SeosMobileKeysSDK</key>
 		<data>
-		GduwrkMm7/9zoAtGwOwznEYiCIc=
+		YrjD5Aa7EE50SxR3qVmR3/U8dzE=
 		</data>
 		<key>Frameworks/SeosMobileKeysSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -156,21 +156,17 @@
 		<data>
 		EfrVYKLSAYOXF4vzVhpElrIx1nw=
 		</data>
-		<key>Headers/DigitalKeyLockUpManager.h</key>
-		<data>
-		3pLcN0j18zpJ3px4mNzmNhFXlLo=
-		</data>
 		<key>Headers/DigitalKeyModule.h</key>
 		<data>
-		WPcDmD+PfVXp7T+n/T+CE4tNtaI=
+		QNok9HA+eUCA9mUd0quCJaYq9cI=
 		</data>
 		<key>Headers/DigitalKeyProviderFactory.h</key>
 		<data>
-		tmJpW2NcbLnQ/f8ktnb9lowfX9w=
+		cP0JW7Uq9gZDrEwSiyqQrDCLpCY=
 		</data>
 		<key>Headers/DigitalKeyProviderInputProtocol.h</key>
 		<data>
-		pwhhP6qUfrJHF9j+r1L5Fsp0vNs=
+		n32FCpVLzmTVwlaU8pzXYfGqAK4=
 		</data>
 		<key>Headers/DigitalKeyProviderOutputProtocol.h</key>
 		<data>
@@ -182,15 +178,15 @@
 		</data>
 		<key>Headers/StayDigitalKeyFramework.h</key>
 		<data>
-		qMQbxuOwiA7hKQOW3lpfz76jE/I=
+		tWT9zaz51kJKeOn2usdS2jVmqNA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Ihq5uQwnXaK7qAptlB1+XigUmUg=
+		SrIIB2DT+L8y3SYZQwnZBppM2y8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		Xu2ypLVMG0Ui7lXDxPKQNzALOXg=
+		eDjfCLWn0ABEuy6kWR5plp5d4+Q=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -199,7 +195,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VwHvXzfJ0R4e3AhB2DN8Yb3Bvqot7pCiBvh+PG6iy9M=
+			sUxNO6183LZFUPuO6AdepfUhq51GvYN7PelFU9onPrE=
 			</data>
 		</dict>
 		<key>Frameworks/BerTlv.framework/Info.plist</key>
@@ -220,7 +216,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FbTHSo4gVLGt3wdrUX+8kiYp/If8+eg1XrT7yzb8d4o=
+			ych7RTLk0WMmeg79GTBynZ3+FBA08N2xPmSaZq5PapY=
 			</data>
 		</dict>
 		<key>Frameworks/CocoaLumberjack.framework/Info.plist</key>
@@ -248,7 +244,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			35Z6yUtB/7TuuTvgFgg1N5Jy/mpgh9g2gFNm43vSA0E=
+			HwY9W/zj5IggehUb+JM5qDoAYhHyc4RFBZccnbE9ls4=
 			</data>
 		</dict>
 		<key>Frameworks/JSONModel.framework/_CodeSignature/CodeResources</key>
@@ -381,7 +377,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lRIvlw6Trk02sRFhWk/5heOJI0JjpwzmoyVw2KtHtNU=
+			H8kUy/Iw1E073mzGChswMXK+NxeP7GEtDOVKSfuFxN8=
 			</data>
 		</dict>
 		<key>Frameworks/Mixpanel.framework/_CodeSignature/CodeResources</key>
@@ -409,7 +405,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lYhjT9OspDMvCiOK1F6yHLMhnk8UpXXsOMqflzkZyog=
+			yEUkB125VhKi2T5eRMjiCcNGe+ZLYF1uA8xmZuBIyvw=
 			</data>
 		</dict>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/_CodeSignature/CodeResources</key>
@@ -430,7 +426,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6znaLTDKNwGZK9Q7edN6Mao5ah29+yeljITARpd7V80=
+			rp30TEG672M/a/+EAIazLZ2vbw+hGs3aInAKBvPYj8s=
 			</data>
 		</dict>
 		<key>Frameworks/SeosMobileKeysSDK.framework/_CodeSignature/CodeResources</key>
@@ -461,32 +457,25 @@
 			jxzhuVc0p6FpOG3pBn1Ijx9bXyKJ0lCiqhM1NP2ez98=
 			</data>
 		</dict>
-		<key>Headers/DigitalKeyLockUpManager.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			rGXq6SvgI//Oq+9OFDtypWY4zAqH1rJnTaWhynXNDmA=
-			</data>
-		</dict>
 		<key>Headers/DigitalKeyModule.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6cJRAmAaP+jj9zqPKi5frzYHhE2XA7uXY9Zc2sz+KBs=
+			s/EvUUQ415qJbPrDdBHaR9yDxIzUvaR4vZpxpSckzH0=
 			</data>
 		</dict>
 		<key>Headers/DigitalKeyProviderFactory.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yZvRgtSjabCdNSOY2xi1S1bbQtWGOPo7qUn01vH8kgU=
+			Ux3MEGS62dt5/G7Tz8r1c3lt9Wc1aTu+q8g+Kn9kFSQ=
 			</data>
 		</dict>
 		<key>Headers/DigitalKeyProviderInputProtocol.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q67f2/zYKFSoxuBFFgvGoR4UQAA4iTOXBOfJjckSg9I=
+			fwXuwFjVqrryiX488uTRSFLuvtMEQX/rHlREsliSB68=
 			</data>
 		</dict>
 		<key>Headers/DigitalKeyProviderOutputProtocol.h</key>
@@ -507,14 +496,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T68IQu4VlCHmEF95IVjFLlUYs/VElLmDNyW/+GijgYE=
+			WLnGbzr5uVP34y+K5TwANygAk4m8IOvhn2ZZ21X/Nio=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nSkwS1cox/Pyj7VvSPnvX4WrhwPEQceiM2MPypwIp+8=
+			a/keva/RGocKiLcdJE+zVRWn0IySX2v04GJIiXor/yA=
 			</data>
 		</dict>
 	</dict>

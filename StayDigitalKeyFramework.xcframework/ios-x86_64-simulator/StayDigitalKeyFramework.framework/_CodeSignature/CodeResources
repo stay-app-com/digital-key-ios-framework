@@ -126,7 +126,7 @@
 		</data>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/SaltoJustINMobileSDK</key>
 		<data>
-		4bjQfnb0e5C90DGmue3jHlG5EDo=
+		F9snOqH4IKInPUbZPEgTqELZzTA=
 		</data>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -156,21 +156,17 @@
 		<data>
 		EfrVYKLSAYOXF4vzVhpElrIx1nw=
 		</data>
-		<key>Headers/DigitalKeyLockUpManager.h</key>
-		<data>
-		3pLcN0j18zpJ3px4mNzmNhFXlLo=
-		</data>
 		<key>Headers/DigitalKeyModule.h</key>
 		<data>
-		WPcDmD+PfVXp7T+n/T+CE4tNtaI=
+		QNok9HA+eUCA9mUd0quCJaYq9cI=
 		</data>
 		<key>Headers/DigitalKeyProviderFactory.h</key>
 		<data>
-		tmJpW2NcbLnQ/f8ktnb9lowfX9w=
+		cP0JW7Uq9gZDrEwSiyqQrDCLpCY=
 		</data>
 		<key>Headers/DigitalKeyProviderInputProtocol.h</key>
 		<data>
-		pwhhP6qUfrJHF9j+r1L5Fsp0vNs=
+		n32FCpVLzmTVwlaU8pzXYfGqAK4=
 		</data>
 		<key>Headers/DigitalKeyProviderOutputProtocol.h</key>
 		<data>
@@ -182,15 +178,15 @@
 		</data>
 		<key>Headers/StayDigitalKeyFramework.h</key>
 		<data>
-		qMQbxuOwiA7hKQOW3lpfz76jE/I=
+		tWT9zaz51kJKeOn2usdS2jVmqNA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		dzl/aDY15zpRf4HoW2kjbqBLdeY=
+		UqDMTo/WhShrJXiFehAZ2a9KAVs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		Xu2ypLVMG0Ui7lXDxPKQNzALOXg=
+		eDjfCLWn0ABEuy6kWR5plp5d4+Q=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -409,7 +405,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IRLSGNVa7uM94FCkFVDCJ0r87LZ6w7DgMc6HOVmbOXE=
+			zRNY99GkvQhElm9XwtIi6oDUnzoHREHd1XPzHNMl+64=
 			</data>
 		</dict>
 		<key>Frameworks/SaltoJustINMobileSDK.framework/_CodeSignature/CodeResources</key>
@@ -461,32 +457,25 @@
 			jxzhuVc0p6FpOG3pBn1Ijx9bXyKJ0lCiqhM1NP2ez98=
 			</data>
 		</dict>
-		<key>Headers/DigitalKeyLockUpManager.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			rGXq6SvgI//Oq+9OFDtypWY4zAqH1rJnTaWhynXNDmA=
-			</data>
-		</dict>
 		<key>Headers/DigitalKeyModule.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6cJRAmAaP+jj9zqPKi5frzYHhE2XA7uXY9Zc2sz+KBs=
+			s/EvUUQ415qJbPrDdBHaR9yDxIzUvaR4vZpxpSckzH0=
 			</data>
 		</dict>
 		<key>Headers/DigitalKeyProviderFactory.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yZvRgtSjabCdNSOY2xi1S1bbQtWGOPo7qUn01vH8kgU=
+			Ux3MEGS62dt5/G7Tz8r1c3lt9Wc1aTu+q8g+Kn9kFSQ=
 			</data>
 		</dict>
 		<key>Headers/DigitalKeyProviderInputProtocol.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q67f2/zYKFSoxuBFFgvGoR4UQAA4iTOXBOfJjckSg9I=
+			fwXuwFjVqrryiX488uTRSFLuvtMEQX/rHlREsliSB68=
 			</data>
 		</dict>
 		<key>Headers/DigitalKeyProviderOutputProtocol.h</key>
@@ -507,14 +496,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T68IQu4VlCHmEF95IVjFLlUYs/VElLmDNyW/+GijgYE=
+			WLnGbzr5uVP34y+K5TwANygAk4m8IOvhn2ZZ21X/Nio=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nSkwS1cox/Pyj7VvSPnvX4WrhwPEQceiM2MPypwIp+8=
+			a/keva/RGocKiLcdJE+zVRWn0IySX2v04GJIiXor/yA=
 			</data>
 		</dict>
 	</dict>
