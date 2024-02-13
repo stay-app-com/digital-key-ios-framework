@@ -4,121 +4,88 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/SaltoJustINMobileSDK.framework/Info.plist</key>
+		<key>Headers/SaltoJustINMobileSDK.h</key>
 		<data>
-		dwq7900yUag0IQpy7i3ToGEa5fw=
-		</data>
-		<key>Frameworks/SaltoJustINMobileSDK.framework/SaltoJustINMobileSDK</key>
-		<data>
-		63IFwZtHKpBrgaJkBj5r2t8PRKA=
-		</data>
-		<key>Frameworks/SaltoJustINMobileSDK.framework/_CodeSignature/CodeResources</key>
-		<data>
-		O60eyY/XgjSUnjQEwSByj1JpQUU=
-		</data>
-		<key>Headers/DigitalKeyEntity.h</key>
-		<data>
-		EfrVYKLSAYOXF4vzVhpElrIx1nw=
-		</data>
-		<key>Headers/DigitalKeyModule.h</key>
-		<data>
-		QNok9HA+eUCA9mUd0quCJaYq9cI=
-		</data>
-		<key>Headers/DigitalKeyProviderFactory.h</key>
-		<data>
-		cP0JW7Uq9gZDrEwSiyqQrDCLpCY=
-		</data>
-		<key>Headers/DigitalKeyProviderInputProtocol.h</key>
-		<data>
-		n32FCpVLzmTVwlaU8pzXYfGqAK4=
-		</data>
-		<key>Headers/DigitalKeyProviderOutputProtocol.h</key>
-		<data>
-		2QiYmRENgAfEeMsmc5fWpmEUvBU=
-		</data>
-		<key>Headers/StayDigitalKeyFramework.h</key>
-		<data>
-		lpI7A7Ly3MjQ/RLGvgK6Ri/d8l0=
+		LRqzi90mff8mPSdcqT2mA5YXsl4=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ucQmGgBtod677oyK++e0KVArWvA=
+		vE1J03S50AW5SrivwbrtEHenznU=
+		</data>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		gz6qm74FZ5VpByox0iVfIW3QoNo=
+		</data>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		TGtpA8jVW83O0npn0G7pN6udz2o=
+		</data>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		W1sp/GCqYC32mlVbjlUAQzLAeVk=
+		</data>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		TGtpA8jVW83O0npn0G7pN6udz2o=
+		</data>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		BxQ16S5VHGvzJ3l+woXK3g1ewf8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		eDjfCLWn0ABEuy6kWR5plp5d4+Q=
+		2HwV8NOSWzEVV6WParoyWG89dls=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/SaltoJustINMobileSDK.framework/Info.plist</key>
+		<key>Headers/SaltoJustINMobileSDK.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VH5z2ZuRUhtH+/m26mgYrmD8LCJ+9G6kwHTmkCqSlyQ=
+			Oh0dP5AMJpI+OhbKNWXUwSc3F+fd1gMWKkSeP8qUq4k=
 			</data>
 		</dict>
-		<key>Frameworks/SaltoJustINMobileSDK.framework/SaltoJustINMobileSDK</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o3dW6RVl40rZUhw17lgoJ8ghvavYVmdlGKFPITHgKjI=
+			+8F8p40s9rMOsDnefw89fY3YvXfA7V1wW2hooYfNw3o=
 			</data>
 		</dict>
-		<key>Frameworks/SaltoJustINMobileSDK.framework/_CodeSignature/CodeResources</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8w7f9GpMj0uTzjHowlszrIoCSLX9pxO9gqpnpVG+Jxk=
+			JGLTwZo95E870GPId7GrMBqHKmsgexLfOUmSK72JbTw=
 			</data>
 		</dict>
-		<key>Headers/DigitalKeyEntity.h</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jxzhuVc0p6FpOG3pBn1Ijx9bXyKJ0lCiqhM1NP2ez98=
+			48TaknSEMdqKd/oEapxYYB/5opM1fSeOTDKmvFRCZ/w=
 			</data>
 		</dict>
-		<key>Headers/DigitalKeyModule.h</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			s/EvUUQ415qJbPrDdBHaR9yDxIzUvaR4vZpxpSckzH0=
+			JGLTwZo95E870GPId7GrMBqHKmsgexLfOUmSK72JbTw=
 			</data>
 		</dict>
-		<key>Headers/DigitalKeyProviderFactory.h</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ux3MEGS62dt5/G7Tz8r1c3lt9Wc1aTu+q8g+Kn9kFSQ=
-			</data>
-		</dict>
-		<key>Headers/DigitalKeyProviderInputProtocol.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			fwXuwFjVqrryiX488uTRSFLuvtMEQX/rHlREsliSB68=
-			</data>
-		</dict>
-		<key>Headers/DigitalKeyProviderOutputProtocol.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+c+raozUTj4tck1arcoiwTcLehqA/dqBVQdt2hkNjd4=
-			</data>
-		</dict>
-		<key>Headers/StayDigitalKeyFramework.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			n7WTit+YF9k1VvuYnkCF1d/K8X4NaLZqtWUv3uJvNLg=
+			VnZ47mJbMdfZt80Ux1nMpRzm1rqUj3tgSnA2YuO7/Fk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a/keva/RGocKiLcdJE+zVRWn0IySX2v04GJIiXor/yA=
+			F7DKiYEQbGmuh+bFH8U2Fzbprro4B5KxDDzGBvOZvIE=
 			</data>
 		</dict>
 	</dict>

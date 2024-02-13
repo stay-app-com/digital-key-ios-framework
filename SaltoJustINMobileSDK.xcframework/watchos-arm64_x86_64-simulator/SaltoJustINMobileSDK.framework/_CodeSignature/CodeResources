@@ -10,47 +10,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		dwq7900yUag0IQpy7i3ToGEa5fw=
+		Og+vSl+X9GFQ6uAc8L76XwYGQgU=
 		</data>
-		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
-		gz6qm74FZ5VpByox0iVfIW3QoNo=
+		uai8nBkRiWDStttMzxrV2ERh6cE=
 		</data>
-		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		T6xdbKWJQQm33s10diNf3PBtDvE=
+		yLGxxcbqUZYxcVOulVjeCwm6NkY=
 		</data>
-		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
 		<data>
-		A2fkVfIrHKxKSHAw1fOQlxXPmNU=
+		/FtKoBx6DuLXmeAbvfM0Pz3TzLE=
 		</data>
-		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		T6xdbKWJQQm33s10diNf3PBtDvE=
+		yLGxxcbqUZYxcVOulVjeCwm6NkY=
 		</data>
-		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		ygg/WdlyiXhRKCJnzPfGwzyaOsM=
+		l2N0nhKVRdAJ8iAG8zCFAr2a5P0=
 		</data>
-		<key>Modules/SaltoJustINMobileSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
-		gz6qm74FZ5VpByox0iVfIW3QoNo=
+		uai8nBkRiWDStttMzxrV2ERh6cE=
 		</data>
-		<key>Modules/SaltoJustINMobileSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		FRjx/Y/uAGr0YqtV8r/F+AfRblU=
+		7JT0lLsHsXlZ2f+4xNQkO6NwUCs=
 		</data>
-		<key>Modules/SaltoJustINMobileSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
 		<data>
-		RtYupt7rJ6SxVmq7ktl5j2foFn0=
+		fHxwlib+8AetmvXN84bRU9ezs6c=
 		</data>
-		<key>Modules/SaltoJustINMobileSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/x86_64-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		FRjx/Y/uAGr0YqtV8r/F+AfRblU=
+		7JT0lLsHsXlZ2f+4xNQkO6NwUCs=
 		</data>
-		<key>Modules/SaltoJustINMobileSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		CAQeUhYbwcTh+E5oP+wCeAsOgrI=
+		OUuqY0JGUL89OefAht+/JQXiLwI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -66,74 +66,74 @@
 			pmB/v2c8NZsrBaxGHsbvn02SDVnKbWbTqSC1WdJnnF0=
 			</data>
 		</dict>
-		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+8F8p40s9rMOsDnefw89fY3YvXfA7V1wW2hooYfNw3o=
+			IrVNvFko5cu0m6eYy1y9LqF3L0zYNBhNI/tSYxKeBkk=
 			</data>
 		</dict>
-		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ud19jNs6tFBX493Y9Ihm2Dt716cvCFdwN+8OaOTHpV0=
+			AELisk0U1KZTculpejlxrK/1rbdBN4ocM52ctvSDG3o=
 			</data>
 		</dict>
-		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+VhmGpVmMa61sQd9SgWUoIaXB5rJkrp8hhD5vpkC9UY=
+			U0NKvGJxI6ZX3llUy7UT8sgfB+J/GHD8EBpXhphBAOs=
 			</data>
 		</dict>
-		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-watchos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ud19jNs6tFBX493Y9Ihm2Dt716cvCFdwN+8OaOTHpV0=
+			AELisk0U1KZTculpejlxrK/1rbdBN4ocM52ctvSDG3o=
 			</data>
 		</dict>
-		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XuED2/LVRUbIgIyQo3xS6VuuX3BhD1+rWJZR6vbJJB8=
+			dMYHb+8LiLZ0jciWR39wt5WfYRaWeJ5aoczyd7gBaGE=
 			</data>
 		</dict>
-		<key>Modules/SaltoJustINMobileSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+8F8p40s9rMOsDnefw89fY3YvXfA7V1wW2hooYfNw3o=
+			IrVNvFko5cu0m6eYy1y9LqF3L0zYNBhNI/tSYxKeBkk=
 			</data>
 		</dict>
-		<key>Modules/SaltoJustINMobileSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MTbXsQWJq/l+ptOiBWyibIDCE52yoVi+wnhw3fh0oxQ=
+			669w0RtSFBVuyV5E/yFk5CHi2+ZZ96Cf2NPH2birnGc=
 			</data>
 		</dict>
-		<key>Modules/SaltoJustINMobileSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cF0Hm5pPvMBnqVNZC4tqDo2ZBMatVv09Tr2927+vtBU=
+			gyI3S+/Z7XzZWPVqT7itnL/h+8+EfYdwU/c8kQtgB2w=
 			</data>
 		</dict>
-		<key>Modules/SaltoJustINMobileSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/x86_64-apple-watchos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MTbXsQWJq/l+ptOiBWyibIDCE52yoVi+wnhw3fh0oxQ=
+			669w0RtSFBVuyV5E/yFk5CHi2+ZZ96Cf2NPH2birnGc=
 			</data>
 		</dict>
-		<key>Modules/SaltoJustINMobileSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/SaltoJustINMobileSDK.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GcaJH00sIkYg9OAIU82U4TXAUb/qAKRbgsb7jYbyy60=
+			AEBZZ5Y+4bDAGOWaj8/yR0AXI83lF0bHweL+zslotUo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
